@@ -1,8 +1,12 @@
 ## Welcome to my page
 
-I am a software engineer who works in the valley. I am interested in building large scalable machine learning systems. Check out my work and projects below. 
+I am a machine learning engineer currently working in the valley. I enjoy building deep learning models for natural language processing and multi-modal settings as well as the software infrastructure to efficiently serve these models.
 
-### Markdown
+### Publications
+
+This page may not be up to date. Please check my [google scholar](https://scholar.google.com/citations?hl=vi&user=PsfCaccAAAAJ) for recent publications.
+
+<!-- ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -33,3 +37,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ -->
